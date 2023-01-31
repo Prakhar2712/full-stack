@@ -8,8 +8,8 @@ A top-level domain that specifies the type of organization associated with the U
 For the URL https://www.codecademy.com, “https” is the scheme, “www” is the subdomain, “codecademy” is the domain name, and “com” is the top-level domain. In further detail, the following happens:
 
 
-##INTRODUCTION TO NODE.JS
-Introduction
+## INTRODUCTION TO NODE.JS
+### Introduction
 For a long time, the browser was the only place JavaScript code could be executed. Web developers had to use a different programming language on the front-end than the back-end. It also meant that, even as JavaScript evolved into a more robust and powerful language, it remained a front-end only language.
 
 Though multiple attempts to create off-browser JavaScript environments have been attempted, Node.js, invented by Ryan Dahl in 2009, found unprecedented popularity and is currently being used by numerous top-tier companies including Netflix, Uber, Paypal, and eBay. Node.js is a JavaScript runtime, or an environment that allows us to execute JavaScript code outside of the browser. A “runtime” converts code written in a high-level, human-readable, programming language and compiles it down to code the computer can execute.
