@@ -1,0 +1,8 @@
+### How servers connect to the Internet?
+Clients use a URL to connect to a server across the Internet. The URL has four main components:
+
+A connection scheme, usually HTTPS (“Hypertext Transfer Protocol Secure”), browsers and web servers use to talk with one another.
+A subdomain that specifies the particular server (usually organized by resource type) to be delivered to the client.
+A domain name that specifies the name of the organization(s) associated with the URL.
+A top-level domain that specifies the type of organization associated with the URL.
+For the URL https://www.codecademy.com, “https” is the scheme, “www” is the subdomain, “codecademy” is the domain name, and “com” is the top-level domain. In further detail, the following happens:
